@@ -2,8 +2,8 @@
 //  GameViewController.swift
 //  SpaceShooter
 //
-//  Created by Valentina Carfagno on 4/21/19.
-//  Copyright © 2019 RSC. All rights reserved.
+//  Created by Christofer Patrick Paes on 4/21/19.
+//  Copyright © 2019 Christofer Patrick Paes RSC. All rights reserved.
 //
 
 import UIKit
